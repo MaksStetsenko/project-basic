@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/MaksStetsenko/project-basic",
+  "homepage": "https://MaksStetsenko/project-basic",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /MaksStetsenko/project-basic"
+    "build": "parcel build src/*.html --public-url /project-basic/"
   },
   "repository": {
     "type": "git",
